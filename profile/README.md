@@ -41,6 +41,8 @@ Lucius is:
 * A system to outsource operator thinking.
 
 It exists to describe what is data is as determined by operator intent in the conext of the host system.
+Luxamen is the deeper inspection system associated with Lucius. Luxamen is a VM orchestration and detonation 
+engine, and malware analytics system.
 
 ### Benson
 
@@ -61,11 +63,11 @@ An AI training engine to created models with bounded autonomy to:
 * Provide an intuitive interface for training
 * Provides clear provenance and history of training configuations
 
-### Future system
+### Future systems
 
-In the future the Dozer Project will also aim to create a threat intelligence correlation system called Dorian
+In the future the Dozer Project will also aim to create a threat intelligence correlation platoform called Dorian
 and a rich-media extraction system called Oscar. Basic shapes of each system exists but out of scope with initial
-organizational offerings.
+organizational offerings. 
 
 ## Design Ethos
 
@@ -136,6 +138,9 @@ This is intentional.
 
 If these systems are valuable they should be open and improvements should remain visible and shared. 
 Not wrapped and buried for economic gain.
+
+The only system slated to be closed source is Luxamen for reasons that it would bolster adversaries
+against it ultimately making development much harder and destroy potential efficacy. 
 
 ## Final Note
 
