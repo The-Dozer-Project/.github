@@ -34,11 +34,11 @@ A declarative, compile-time language for expressing intent, evidence, and escala
 
 Lucius is:
 
-* A high throughput sanitizer.
-* Highly extensible engine with determinism.
-* Multi-stage and multi-faceted system to get analytical information on potential malicious data.
-* Not a system that guarantees everything will be caught.
-* A system to outsource operator thinking.
+* A high throughput sanitizer
+* Highly extensible engine with determinism
+* Multi-stage and multi-faceted system to get analytical information on potential malicious data
+* Not a system that guarantees everything will be caught
+* Not a system to outsource operator experience or thinking
 
 It exists to describe what is data is as determined by operator intent in the conext of the host system.
 Luxamen is the deeper inspection system associated with Lucius. Luxamen is a VM orchestration and detonation 
